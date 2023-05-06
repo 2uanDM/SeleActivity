@@ -1,0 +1,6 @@
+undetected_chromedriver
+selenium
+pyautogui
+pyclick
+pytweening
+numpy
